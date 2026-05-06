@@ -6,7 +6,7 @@ Successfully completed a **2-Month Full Stack Developer Internship** at **Jarura
 
 ## Internship Certificate
 
-[View Certificate](Certificate_Of_Internship_JC.pdf)
+![Internship Certificate](certificate.png)
 
 ---
 
